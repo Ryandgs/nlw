@@ -47,7 +47,8 @@ npx ts-node-dev ::dir
 <br/>
 
 ## Configurando **ts-node-dev** no package.json
-### Para reiniciar automaticamente o servidor ao salvar arquivos. Em *package.json*:
+### Para reiniciar automaticamente o servidor ao salvar arquivos. 
+Em *package.json*:
 ```json
 "scripts": {
     "dev": "ts-node-dev ::dir"
