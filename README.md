@@ -1,7 +1,7 @@
 # NextLevelWeek Day 01
-### O objetivo deste readme é anotar informações importantes destacadas durante o andamento das aulas. O arquivo sera distribuido nos canais de aprendizado.
+O objetivo deste readme é anotar informações importantes destacadas durante o andamento das aulas. O arquivo sera distribuido nos canais de aprendizado.
 
-### Sinta-se livre para colaborar ;)
+#### *Sinta-se livre para colaborar ;)*
 <br/>
 
 ## Iniciando o **Node.JS**
