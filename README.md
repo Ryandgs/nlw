@@ -65,7 +65,7 @@ npm run dev
 
 ## Iniciando projeto React
 ```bash
-npx create-react-app web --template-typescript
+npx create-react-app web --template=typescript
 ```
 
 <br/>
