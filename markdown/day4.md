@@ -115,10 +115,27 @@ $ expo isntall expo-constants
 $ expo install react-native-maps
 ```
 
+Para utilizar a localização atual do usuário:
+```bash
+$ expo install expo-location
+```
+
 ## Utilizando SVG
 
 ```bash
 $ expo install react-native-svg
 ```
 
-**Obs:** Hoje fui até 01:08:04 de vídeo devido a alguns compromissos, mas garanto que até o final do evento teremos tudo documentado! Um abraço devs!
+## Conectando com a API
+
+Para conectar nossa aplicação mobile com api's externas utilizaremos também o AXIOS
+```bash
+$ npm install axios
+```
+
+## Botão de email
+
+Para isso devemos utilizar o MailComposer
+```bash
+$ npm install expo-mail-composer
+```

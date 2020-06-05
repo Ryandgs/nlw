@@ -22,7 +22,7 @@ $ yarn dev
 JSX: Sintaxe de HTML dentro do JavaScript
 Componentes: Componentes permitem você dividir a UI (User Interface) em partes independentes, reutilizáveis, ou seja, trata cada parte da aplicação como um bloco isolado, livre de outras dependências externas. 
 
-Importante ver também **Imutabilidade**
+Importante ver também **Imutabilidade**, Ex:
 
 ## Limpando a estrutura do React
 
