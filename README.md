@@ -29,7 +29,7 @@ Não esqueça de configurar devidamente seu ambiente e vamos lá ;)
 #### *Sinta-se livre para colaborar, toda ajuda é bem vinda ;)*
 <br/>
 
-# Day :one:
+# Day 1
 
 ## :camera: A aplicação
 

@@ -1,10 +1,10 @@
-# Day 4
+# Day 5
 
 Faaaaaaala dev (deu para ouvir ai?)
 
 <img src="image/nlw.jpg">
 
-# A milha extra: Recursos Avançados
+# :mortar_board: O ultimo dia, a milha extra e Recursos Avançados
 
 Infelizmente estamos chegando ao final da NLW devs, mas vamos ao que importa, as tasks do ultimo dia foram:
 

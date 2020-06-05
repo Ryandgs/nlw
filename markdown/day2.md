@@ -1,8 +1,8 @@
-# Day 2
+# :rocket: Day 2
 
 <img src="image/nlw.jpg">
 
-# Criando nossa API
+# :computer: Criando nossa API
 
 ## Recapitulando
 ### Para iniciar o servidor
@@ -12,7 +12,7 @@ $ npm run dev
 $ yarn dev
 ```
 
-# E vamos ao conteúdo aplicado do dia
+# :tada: E vamos ao conteúdo aplicado do dia
 
 ## Principais Conceitos
 

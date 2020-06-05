@@ -1,8 +1,8 @@
-# Day 3
+# :rocket: Day 3
 
 <img src="image/nlw.jpg">
 
-# Criando nossa aplicação utilizando **React** com TS
+# :earth_americas: Criando nossa aplicação WEB utilizando **React** com TS
 
 ## Recapitulando
 

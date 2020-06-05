@@ -1,10 +1,10 @@
-# Day 4
+# :rocket: Day 4
 
 Faaaaaaala dev (deu para ouvir ai?)
 
 <img src="image/nlw.jpg">
 
-# Criando nosso aplicação Mobile
+# :iphone: Criando nosso aplicação Mobile
 
 ## Recapitulando
 
