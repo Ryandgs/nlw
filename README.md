@@ -1,16 +1,27 @@
-# NextLevelWeek 1.0
+# :rocket: NextLevelWeek 1.0 
 
-"O NLW é uma experiência online com muito conteúdo prático, desafios e hacks que vão te ajudar avançar para o próximo nível."
+## **"O NLW é uma experiência online com muito conteúdo prático, desafios e hacks que vão te ajudar avançar para o próximo nível."**
+
+<p align="center">
+  <img src="markdown/image/nlw.png">
+</p>
 
 Oferecido por: **[Rocketseat](https://www.rocketseat.com.br)**
 
-<img src="markdown/image/nlw.jpg">
+# :computer: Tecnologias
 
-# O repositório
+* React
+* React Native
+* Node.JS
+* TypeScript
+
+<br/>
+
+# :green_book: O repositório
 "Faaaaaala dev!"
 Bom... O objetivo deste arquivo é anotar informações importantes destacadas durante o andamento das aulas. O arquivo será distribuído nos canais de aprendizado com o intuito de auxiliar devs após o fechamento das aulas, para que você possa continuar codando e desenvolvendo projetos Node.JS (pensando na experiência própria de esquecer diversas configurações, comandos ou conceitos semanas depois de uma semana omnistack), até o momento em que esteja tudo na memória. Algo totalmente pensado de dev para dev, um pouco trabalhoso (uma aula de 2 horas acaba durando umas 5/6 horas, alias, também estou aprendendo e por isso suas contribuições e correções são extremamente valiosas), mas uma iniciativa para realmente ajudar e motivar a comunidade, feito com muito carinho. 
 
-## Chega de enrolação!
+## :bangbang: Chega de enrolação!
 Não esqueça de configurar devidamente seu ambiente e vamos lá ;)
 
 *Este conteúdo esta sendo desenvolvido com base nas aulas do modulo **Booster***
@@ -18,9 +29,21 @@ Não esqueça de configurar devidamente seu ambiente e vamos lá ;)
 #### *Sinta-se livre para colaborar, toda ajuda é bem vinda ;)*
 <br/>
 
-# Day 01
+# Day :one:
 
-Para visualizar a prototipação do projeto [clique aqui](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=0%3A1)
+## :camera: A aplicação
+
+<p align="center">
+  <img src="markdown/image/ecoleta_logo.png">
+</p>
+
+A aplicação desenvolvida na NLW será um Marketplace de coleta de resíduos com o objetivo de ajudar pessoas a encontrarem pontos de coleta de forma eficiente
+
+<p align="center">
+  <img src="markdown/image/web.png">
+</p>
+
+Para visualizar a prototipação completa do projeto [clique aqui](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=0%3A1)
 
 ## Iniciando o **Node.JS**
 ### Para iniciar um projeto node utilizar:
