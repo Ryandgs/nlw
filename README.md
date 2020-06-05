@@ -8,12 +8,12 @@ Oferecido por: **[Rocketseat](https://www.rocketseat.com.br)**
 
 # O repositório
 "Faaaaaala dev!"
-Bom... O objetivo deste arquivo é anotar informações importantes destacadas durante o andamento das aulas. O arquivo será distribuído nos canais de aprendizado com o intuito de auxiliar devs após o fechamento das aulas, para que você possam continuar codando e desenvolvendo projetos Node.JS (pensando na experiência propria de esquecer diversas configurações, comandos ou conceitos semanas após as semanas omnistack), até o momento em que esteja tudo na memória, algo totalmente pensado de dev para dev, um pouco trabalhoso (uma aula de 2 horas acaba durando umas 4/5 horas, alias, também estou aprendendo e por isso sua contribuição e correções são totalmente bem vindos!), mas uma iniciativa para realmente ajudar e motivar a comunidade, feito com muito cuidado. 
+Bom... O objetivo deste arquivo é anotar informações importantes destacadas durante o andamento das aulas. O arquivo será distribuído nos canais de aprendizado com o intuito de auxiliar devs após o fechamento das aulas, para que você possa continuar codando e desenvolvendo projetos Node.JS (pensando na experiência própria de esquecer diversas configurações, comandos ou conceitos semanas depois de uma semana omnistack), até o momento em que esteja tudo na memória. Algo totalmente pensado de dev para dev, um pouco trabalhoso (uma aula de 2 horas acaba durando umas 5/6 horas, alias, também estou aprendendo e por isso suas contribuições e correções são extremamente valiosas), mas uma iniciativa para realmente ajudar e motivar a comunidade, feito com muito carinho. 
 
 ## Chega de enrolação!
-Não esqueça de configurar devidamente seu ambiente e vamos lá!
+Não esqueça de configurar devidamente seu ambiente e vamos lá ;)
 
-*Este conteúdo esta sendo desenvolvido com base nas aulas do modulo **Boster***
+*Este conteúdo esta sendo desenvolvido com base nas aulas do modulo **Booster***
 
 #### *Sinta-se livre para colaborar, toda ajuda é bem vinda ;)*
 <br/>
@@ -98,6 +98,6 @@ $ npx create-react-app web --template=typescript
 - Notion: To-do List
 <br/>
 
-**Obs:** Para iniciantes, recomendo também criar seu próprio repositorio no github, iniciando assim seu portfólio e ainda é uma otima maneira de começar a aprender sobre essas ferramentas!
+**Obs:** Para iniciantes, recomendo também criar seu próprio repositorio no github, iniciando assim seu portfólio além de ser uma ótima maneira de começar a aprender sobre essa ferramenta!
 
 Ir para: [Day 2](markdown/day2.md)
