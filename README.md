@@ -8,6 +8,10 @@
 
 Oferecido por: **[Rocketseat](https://www.rocketseat.com.br)**
 
+Gostaria de agradecer o(a) [clowjs](https://github.com/clowjs) que fez algumas correções nos arquivos, mas por alguma razão todos commits foram perdidos (supostamente problema de bios talvez kk)
+
+<br/>
+
 # :computer: Tecnologias
 
 ## API
@@ -180,7 +184,5 @@ $ npx create-react-app web --template=typescript
 <br/>
 
 **Obs:** Para iniciantes, recomendo também criar seu próprio repositorio no github, iniciando assim seu portfólio além de ser uma ótima maneira de começar a aprender sobre essa ferramenta!
-
-Gostaria de agradecer o(a) [clowjs](https://github.com/clowjs) que fez algumas correções nos arquivos, mas por alguma razão todos commits foram perdidos (problema de bios talvez kk)
 
 Ir para: [Day 2](markdown/day2.md)
