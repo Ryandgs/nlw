@@ -3,10 +3,10 @@ import path from 'path';
 
 const connection = knex({
     client: 'sqlite3',
-    connection: {
+    connection:{
         filename: path.resolve(__dirname, 'database.sqlite'),
     },
-    useNullAsDefault: true,    
+    useNullAsDefault: true,
 });
 
 export default connection;

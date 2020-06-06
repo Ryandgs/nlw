@@ -104,11 +104,25 @@ export default <fileNameWithoutExtension>;
 
 # Banco de dados
 
-Tabelas: 
+## Tabelas: 
 
-<p align="center">
-    <img src="image/sql.png">
-</p>
+### points
+* image
+* name
+* email
+* whatsapp
+* latitude
+* longitude
+* city
+* uf
+
+### items
+* image
+* title
+
+### points_items
+* point_id
+* item_id
 
 Para esta edição do NLW utilizaremos **SQLite**
 
@@ -159,7 +173,7 @@ Lembre, voce pode criar atalhos no seu package.json
 ```json
 {
   "scripts": {
-    "knex-migration": "npx knex migrate:latest --knexfile knexfile.ts migrate:latest"
+    "knex:migration": "npx knex migrate:latest --knexfile knexfile.ts migrate:latest"
   }
 }
 ```
